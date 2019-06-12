@@ -23,6 +23,8 @@ import java.text.NumberFormat;
  */
 public class MainActivity extends AppCompatActivity {
 
+    String farziVar = "Faltu checking of git process";
+
     int scoreTeamA = 0;
     int scoreTeamB = 0;
 
